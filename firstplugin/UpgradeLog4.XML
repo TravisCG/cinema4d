@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="firstplugin">
+</Property><Property Name="Solution File" Value="C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.sln">
+</Property><Property Name="User Options File" Value="C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.suo">
+</Property><Property Name="Date" Value="Monday, June 10, 2013">
+</Property><Property Name="Time" Value="21:04 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="firstplugin.sln" Description="Error creating backup file: C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="firstplugin.suo" Description="Error creating backup file: C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.suo.old">
+</Event><Event ErrorLevel="3" Project="cinema4dsdk" Source="cinema4dsdk.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="_api" Source="..\..\resource\_api_lib\_api.vcxproj" Description="No Conversion Required">
+</Event></UpgradeLog>

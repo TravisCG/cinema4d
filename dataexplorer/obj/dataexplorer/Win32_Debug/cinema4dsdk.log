@@ -1,0 +1,9 @@
+﻿Build started 6/16/2013 4:58:54 PM.
+     1>Project "C:\Program Files\MAXON\CINEMA 4D R13\plugins\dataexplorer\cinema4dsdk.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "C:\Program Files\MAXON\CINEMA 4D R13\plugins\dataexplorer\obj\dataexplorer\Win32_Debug\dataexplorer.lastbuildstate".
+     1>Done Building Project "C:\Program Files\MAXON\CINEMA 4D R13\plugins\dataexplorer\cinema4dsdk.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.01

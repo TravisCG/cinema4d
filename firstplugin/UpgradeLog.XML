@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="firstplugin">
+</Property><Property Name="Solution File" Value="C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.sln">
+</Property><Property Name="Date" Value="Sunday, June 09, 2013">
+</Property><Property Name="Time" Value="19:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="firstplugin.sln" Description="File successfully backed up as C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\firstplugin.sln.old">
+</Event><Event ErrorLevel="0" Project="cinema4dsdk" Source="cinema4dsdk.vcproj" Description="Converting project file 'C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\cinema4dsdk.vcproj'.">
+</Event><Event ErrorLevel="2" Project="cinema4dsdk" Source="cinema4dsdk.vcproj" Description="File 'C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\cinema4dsdk.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="cinema4dsdk" Source="cinema4dsdk.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="cinema4dsdk" Source="cinema4dsdk.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="3" Project="_api" Source="..\..\resource\_api_lib\_api.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="firstplugin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="firstplugin.sln" Description="Converted">
+</Event></UpgradeLog>

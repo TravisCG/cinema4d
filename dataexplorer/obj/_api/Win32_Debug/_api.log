@@ -1,0 +1,9 @@
+﻿Build started 6/16/2013 4:58:54 PM.
+     1>Project "C:\Program Files\MAXON\CINEMA 4D R13\resource\_api_lib\_api.vcxproj" on node 3 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "C:\Program Files\MAXON\CINEMA 4D R13\plugins\dataexplorer\obj\_api\Win32_Debug\_api.lastbuildstate".
+     1>Done Building Project "C:\Program Files\MAXON\CINEMA 4D R13\resource\_api_lib\_api.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

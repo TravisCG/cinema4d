@@ -1,0 +1,24 @@
+﻿Build started 6/10/2013 10:02:15 PM.
+     1>Project "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\cinema4dsdk.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\cinema4dsdk.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\source /I.\res /I.\res\description /I../../resource\_api /I../../resource\_api\c4d_preview /I../../resource\_api\c4d_customgui /I../../resource\_api\c4d_libs /I../../resource\_api\c4d_gv /I../../resource\modules\Modeling\res\description /I../../resource\res\description /I../../resource\modules\objects\res\description /I../../resource\_api_maxon\source /I../../resource\_api_maxon\source\sse2 /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D __PC /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _WINDLL /Gm /RTC1 /MTd /GS /Gy /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\obj\\" /Fd"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\vc100.pdb" /Gd /TP /wd4062 /wd4100 /wd4127 /wd4131 /wd4201 /wd4210 /wd4242 /wd4244 /wd4245 /wd4305 /wd4310 /wd4324 /wd4365 /wd4389 /wd4505 /wd4512 /wd4611 /wd4706 /wd4718 /wd4740 /wd4748 /wd4996 /analyze- /FC /errorReport:prompt cgmenu.cpp /vmg /vms /w44263 /we4264 
+         cgmenu.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\cinema4dsdk.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\cinema4dsdk.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.lib" /MACHINE:X86 /DLL "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\obj\cgmenu.obj"
+         "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\obj\Main.obj"
+         "C:\Program Files\MAXON\CINEMA 4D R13\resource\_api_lib\_api_Win32_Debug.lib"
+     1>cgmenu.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+            Creating library C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.lib and object C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.exp
+         cinema4dsdk.vcxproj -> C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\\cinema4dsdk.dll;#2" /manifest "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\cinema4dsdk.dll.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\cinema4dsdk.unsuccessfulbuild".
+         Touching "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\obj\cinema4dsdk\Win32_Debug\cinema4dsdk.lastbuildstate".
+     1>Done Building Project "C:\Program Files\MAXON\CINEMA 4D R13\plugins\firstplugin\cinema4dsdk.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51
